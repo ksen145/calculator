@@ -1,0 +1,9 @@
+D:\рабочий стол\tutorial\source\repos\calculator\calculator\bin\Debug\calculator.exe
+D:\рабочий стол\tutorial\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+D:\рабочий стол\tutorial\source\repos\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\рабочий стол\tutorial\source\repos\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\рабочий стол\tutorial\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\рабочий стол\tutorial\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\рабочий стол\tutorial\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\рабочий стол\tutorial\source\repos\calculator\calculator\obj\Debug\calculator.exe
+D:\рабочий стол\tutorial\source\repos\calculator\calculator\obj\Debug\calculator.pdb
